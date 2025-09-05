@@ -97,7 +97,7 @@ function drawFinaleText() {
     ctx.font = "60px 'Great Vibes', cursive";
     ctx.textAlign = 'center';
     const textYPosition = canvas.height / 2.2;
-    ctx.fillText("I Love You", canvas.width / 2, textYPosition);
+    ctx.fillText("Sakti & Nabila", canvas.width / 2, textYPosition);
     ctx.globalAlpha = 1.0;
     ctx.shadowBlur = 0;
 }
